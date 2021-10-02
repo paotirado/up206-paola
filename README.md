@@ -1,12 +1,11 @@
 # up206-paola
 ## Paola Tirado Escareno 
-*2nd- year MURP, Transporation Policy & Planning*
+*Master of Urban & Regional Planning Candidate '22, Transporation Policy & Planning*
 > Interests: 
 - Urban history
-- Urban design
+- Design
 - Transportation
 - Participatory planning
-
 ### UP 206A Introduction to GIS
 This course will analyze foundations of spatial data science and review the basics of programming with Python. 
 #### Project Ideas
