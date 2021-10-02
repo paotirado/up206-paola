@@ -1,5 +1,5 @@
 # up206-paola
-## Paola Tirado Escareno 
+## Paola Tirado Escareño 
 *Master of Urban & Regional Planning Candidate '22, Transporation Policy & Planning*
 > Interests: 
 - Urban history
