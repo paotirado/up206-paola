@@ -1,6 +1,8 @@
 # up206-paola
 ## Paola Tirado Escareño 
 *Master of Urban & Regional Planning Candidate '22, Transportation Policy & Planning*
+
+Hello! I'm Paola a second year MURP. I was born in Tijuana, México and raised in South Central LA- Watts. 
 > Interests: 
 - Urban history
 - Design
